@@ -11,11 +11,7 @@ namespace Practical
         static void Main(string[] args)
         {
 
-            List<car> cars = new List<car>();
-
-            car c = new car();
-            c.name="tata"
-            c.owner.name="kasif";
+            
         }
        
     }
