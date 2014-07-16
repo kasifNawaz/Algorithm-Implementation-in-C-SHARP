@@ -1,0 +1,5 @@
+F:\projects\AlgorithmsExp\HorSpool\bin\Debug\HorSpool.exe
+F:\projects\AlgorithmsExp\HorSpool\bin\Debug\HorSpool.pdb
+F:\projects\AlgorithmsExp\HorSpool\obj\Debug\HorSpool.csprojResolveAssemblyReference.cache
+F:\projects\AlgorithmsExp\HorSpool\obj\Debug\HorSpool.exe
+F:\projects\AlgorithmsExp\HorSpool\obj\Debug\HorSpool.pdb

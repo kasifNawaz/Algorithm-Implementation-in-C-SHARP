@@ -1,0 +1,5 @@
+F:\projects\AlgorithmsExp\Practical\bin\Debug\Practical.exe
+F:\projects\AlgorithmsExp\Practical\bin\Debug\Practical.pdb
+F:\projects\AlgorithmsExp\Practical\obj\Debug\Practical.csprojResolveAssemblyReference.cache
+F:\projects\AlgorithmsExp\Practical\obj\Debug\Practical.exe
+F:\projects\AlgorithmsExp\Practical\obj\Debug\Practical.pdb
